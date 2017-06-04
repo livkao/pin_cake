@@ -20,6 +20,8 @@ gem 'simple_form', '~> 3.5'
 gem 'haml', '~> 5.0', '>= 5.0.1'
 gem 'devise', '~> 4.3'
 gem "paperclip", "~> 5.0.0"
+gem 'masonry-rails', '~> 0.2.4'
+gem 'jquery-rails'
 
 
 group :development, :test do
